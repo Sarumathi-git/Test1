@@ -2,4 +2,13 @@ This is my first file in Git.
 one more commit, so modifying file.
 this is not commited yet.
 going to commit
+ hello
 dev is created.
+hello branch created
+hi hello
+HEAD
+this is master file.
+master
+this is test file code.
+this is master file.
+origin/test
