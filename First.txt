@@ -6,7 +6,9 @@ going to commit
 dev is created.
 hello branch created
 hi hello
-
-
+HEAD
 this is master file.
- master
+master
+this is test file code.
+this is master file.
+origin/test
